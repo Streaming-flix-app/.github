@@ -14,7 +14,7 @@
      
 ####  Implementation in Backend
       Designed a schema to store marked favorite movies of a user
-      Used NodeJS, and MongoDB as a Database
+      Used NodeJS as a framework, and MongoDB as a Database
       Added APIs and SDKs of Razorpay payment gateway
    
 
